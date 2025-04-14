@@ -1,8 +1,8 @@
 
 ## Sobre o projeto:
  
-Python Insights - Analisando Dados com Python
-Este é um projeto de análise de dados com Python, focado em entender o comportamento dos clientes e os fatores que levam ao cancelamento de serviços.
+Python Inteligência Artificial - Previsões
+Projeto focado em utilizar algoritmos de machine learning para realizar previsões com base em dados históricos. Ideal para estudos, testes e experimentações com modelos preditivos em Python.
 
 ## Tecnologias utilizadas:
 
