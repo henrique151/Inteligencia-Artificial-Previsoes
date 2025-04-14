@@ -30,10 +30,7 @@ Acesse o diretório do projeto:
 
 Instale as dependências:
 ```bash
-  pip install pandas 
+  pip install pandas sklearn-learn
 ```
 
-Execute a aplicação:
-```bash
-  python .\app.py
-```
+Executar a aplicação, clicar em 'Run All'
