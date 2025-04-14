@@ -20,12 +20,12 @@ Projeto focado em utilizar algoritmos de machine learning para realizar previsõ
 
 Clone o repositório:
 ```bash
-  git clone https://github.com/henrique151/Projeto-Insights-Analisando-Dados
+  git clone https://github.com/henrique151/Inteligencia-Artificial-Previsoes.git
 ```
 
 Acesse o diretório do projeto:
 ```bash
-  cd Projeto-Insights-Analisando-Dados
+  cd Inteligencia-Artificial-Previsoes
 ```
 
 Instale as dependências:
